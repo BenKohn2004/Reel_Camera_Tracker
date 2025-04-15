@@ -8,7 +8,7 @@ This is accomplished using optical quadrature rotary encoding and a Wemos Arduin
 
 ## Reel Encoders
 
-Reel encoding is handled using a [Wemos ESP8266 Arduino](https://www.aliexpress.us/item/3256806810666156.html) connected to two [TCRT5000 IR sensors](https://www.aliexpress.us/item/3256806126379687.html), all mounted on a custom PCB ([Gerber File]). Reflective [tape](https://www.amazon.com/dp/B089RNX794) and [masking tape](https://www.amazon.com/dp/B0CDGCCKXX) are applied in 1/16 segments to the drum of the Favero reel, aligned with the reel’s rivets for simplified placement.
+Reel encoding is handled using a [Wemos ESP8266 Arduino](https://www.aliexpress.us/item/3256806810666156.html) connected to two [TCRT5000 IR sensors](https://www.aliexpress.us/item/3256806126379687.html), all mounted on a custom PCB [Gerber File](https://github.com/BenKohn2004/Reel_Camera_Tracker/blob/main/Gerber_Favero_Optical_Encoder_PCB.zip). Reflective [tape](https://www.amazon.com/dp/B089RNX794) and [masking tape](https://www.amazon.com/dp/B0CDGCCKXX) are applied in 1/16 segments to the drum of the Favero reel, aligned with the reel’s rivets for simplified placement.
 
 The IR sensors are mounted using a 3D printed [Favero Optical Mount](https://cad.onshape.com/documents/fab3dbb0c6cd24d122a26ac7/w/167803772a56f7a36cd09560/e/40a31ee80700d67aef5da61b?renderMode=0&uiState=67fe731ba1c8f971c51b1d21). The mount is attached using 10mm [M3 screws](https://www.aliexpress.us/item/2251832624537980.html), similar to those found in body cords. A 7/64" drill bit is used to create the hole in the bottom of the Favero reel for mounting. The mount’s front indentation is designed to align with a rivet on the reel.
 
