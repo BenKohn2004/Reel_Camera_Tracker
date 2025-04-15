@@ -57,3 +57,13 @@ I'm not offering detailed advice on how to mount the servo and camera—I used z
 ## Webcam & AirPad Connection
 
 The webcam was connected to an iPad Air (4th Gen), as detailed in this [Reddit post](https://www.reddit.com/r/Fencing/comments/1c2v94j/inexpensive_tournament_video_replay_setup/).
+
+---
+
+## Operation
+
+When the reel Arduinos are powered on, they assume the reel is at the zero position. However, you still need to set the "Set" position manually. My method is to connect the reels together and fasten the reel cords near the camera. Then, I press the "Set" button on both reels before returning the cords. This process helps the system estimate the camera's distance from the center of the strip.
+
+Occasionally, it may be necessary to "Zero" the reels if they begin to drift. One future improvement could be implementing an automatic zeroing feature that activates if the reels remain stationary for more than 10 minutes—under the assumption that the cords are fully retracted.
+
+---
