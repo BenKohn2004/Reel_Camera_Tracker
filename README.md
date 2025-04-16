@@ -42,6 +42,8 @@ To calibrate each IR sensor:
 
 You may need to adjust tape placement or tighten the sensors to get clean readings.
 
+![Optical Sensors.jpg](Optical Sensors.jpg)
+
 ---
 
 ## Servo and Camera
