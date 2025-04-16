@@ -64,6 +64,8 @@ I'm not offering detailed advice on how to mount the servo and camera—I used z
 
 The webcam was connected to an iPad Air (4th Gen), as detailed in this [Reddit post](https://www.reddit.com/r/Fencing/comments/1c2v94j/inexpensive_tournament_video_replay_setup/).
 
+![iPadAir_Setup.jpg](iPadAir_Setup.jpg)
+
 
 ## Operation
 
