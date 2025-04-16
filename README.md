@@ -52,7 +52,7 @@ You may need to adjust tape placement or tighten the sensors to get clean readin
 
 The Wemos controlling the camera servo delivers Power, Ground, and Data (on pin D4) to the servo. I used a [DS3218 high-torque servo](https://www.amazon.com/Miuzei-Torque-Digital-Waterproof-Control/dp/B07HNTKSZT) and a [UVC webcam](https://www.aliexpress.us/item/3256805987213806.html) with manual zoom and focus.
 
-The servo is housed in a custom [OnShape DS3218 Enclosure](https://cad.onshape.com/documents/1e486539fdc99d72c7aaabdc/w/271820f546826b94c9b7a559/e/6343038745df72bbe1ef6208?renderMode=0&uiState=67fe7cface13531524bbc043).
+The servo is housed in a custom [OnShape DS3218 Enclosure](https://cad.onshape.com/documents/1e486539fdc99d72c7aaabdc/w/271820f546826b94c9b7a559/e/6343038745df72bbe1ef6208?renderMode=0&uiState=67fe7cface13531524bbc043). The camera uses a [USB Amplifier Extension Cable](https://www.aliexpress.us/item/3256807726071751.html) to connect to the iPadAir.
 
 I'm not offering detailed advice on how to mount the servo and camera—I used zip ties and spare parts, and I wouldn’t recommend my setup as a model of craftsmanship.
 
