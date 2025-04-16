@@ -1,6 +1,6 @@
 ## Project Overview
 
-The goal of this project is to automatically track fencers and is specifically designed to complement the Super Fencing System. A brief example of the reel tracker can be found on [YouTube](Youtube Link).
+The goal of this project is to automatically track fencers and is specifically designed to complement the Super Fencing System. A brief example and explanation of the reel tracker can be found on [YouTube](https://youtu.be/cfHPRQ0f3-o).
 
 This is accomplished using optical quadrature rotary encoding and a Wemos Arduino to determine how much of a Favero fencing reel has been reeled out. This information is transmitted to another Wemos Arduino that controls a servo attached to a camera, which tracks the midpoint between two fencers.
 
