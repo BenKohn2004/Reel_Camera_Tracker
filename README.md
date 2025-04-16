@@ -12,7 +12,7 @@ Reel encoding is handled using a [Wemos ESP8266 Arduino](https://www.aliexpress.
 
 The IR sensors are mounted using a 3D printed [Favero Optical Mount](https://cad.onshape.com/documents/fab3dbb0c6cd24d122a26ac7/w/167803772a56f7a36cd09560/e/40a31ee80700d67aef5da61b?renderMode=0&uiState=67fe731ba1c8f971c51b1d21). The mount is attached using 10mm [M3 screws](https://www.aliexpress.us/item/2251832624537980.html), similar to those found in body cords. A 7/64" drill bit is used to create the hole in the bottom of the Favero reel for mounting. The mount’s front indentation is designed to align with a rivet on the reel.
 
-![Optical Holder.png}(Optical Holder.png)
+![Optical_Holder.png}(Optical_Holder.png)
 
 The Wemos, [SSD1306 OLED display](https://www.aliexpress.us/item/3256806315309280.html), a 10kΩ resistor, and two buttons are combined on the PCB. The board is panelized (though roughly) and may need to be snapped apart. The SSD1306 display is optional and used to show the current position and angle sent to the camera servo. A matching 3D printed holder for the PCB is found in the same OnShape file and is designed to hold 4mm x 2mm magnets in its base with a drop of superglue.
 
