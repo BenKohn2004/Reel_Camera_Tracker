@@ -14,7 +14,11 @@ The IR sensors are mounted using a 3D printed [Favero Optical Mount](https://cad
 
 ![Optical_Holder.png](Optical_Holder.png)
 
-The Wemos, [SSD1306 OLED display](https://www.aliexpress.us/item/3256806315309280.html), a 10kΩ resistor, and two buttons are combined on the PCB. The board is panelized (though roughly) and may need to be snapped apart. The SSD1306 display is optional and used to show the current position and angle sent to the camera servo. A matching 3D printed holder for the PCB is found in the same OnShape file and is designed to hold 4mm x 2mm magnets in its base with a drop of superglue.
+The Wemos, [SSD1306 OLED display](https://www.aliexpress.us/item/3256806315309280.html), a 10kΩ resistor, and two buttons are combined on the PCB. The board is panelized (though roughly) and may need to be snapped apart. 
+
+![PCB.jpg](PCB.jpg)
+
+The SSD1306 display is optional and used to show the current position and angle sent to the camera servo. A matching 3D printed holder for the PCB is found in the same OnShape file and is designed to hold 4mm x 2mm magnets in its base with a drop of superglue.
 
 Each reel (Left and Right) requires its own Wemos board. Power is supplied via USB, but a direct 5V connection may be more reliable long term. The Arduino code is the same for both reels except for this line:
 
