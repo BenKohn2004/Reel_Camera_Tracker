@@ -56,6 +56,8 @@ The servo is housed in a custom [OnShape DS3218 Enclosure](https://cad.onshape.c
 
 I'm not offering detailed advice on how to mount the servo and camera—I used zip ties and spare parts, and I wouldn’t recommend my setup as a model of craftsmanship.
 
+![Servo_Camera_Install]{Servo_Camera_Install}
+
 ---
 
 ## Webcam & AirPad Connection
