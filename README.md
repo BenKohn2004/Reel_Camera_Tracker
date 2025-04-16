@@ -76,3 +76,5 @@ The webcam was connected to an iPad Air (4th Gen), as detailed in this [Reddit p
 When the Reel Arduinos are powered up they will assume that the reel is at the zero position. You do need to set the "Set" position though. The way I do this is to connect the reels together and then fasten reel cords near the camera. I then press the "Set" button on both reels and return the reel cords. This should give the system an idea of how far away the camera is from the center of the strip.
 
 From time to time it may be necessary to "Zero" the reels if they tend to drift. There is a feature that autozeroes the reel when the position has been stable for 5 minutes. The assumption is that the reel will be fully withdrawn if it maintains the same position for that period of time.
+
+There is also an Analog input from one, not both, of the optical sensors to the Arduino. This is currenly not used, but could be used to help calibrate the sensor. Since I had it available, it felt as if it would have been a waste not to wire it up via the PCB.
